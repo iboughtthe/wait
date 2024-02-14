@@ -38,6 +38,11 @@ __MULTI POSTS__
 
 _send public/private posts link as explained above with formate "from - to" to send multiple messages like below_
 
+<a href="https://dashboard.heroku.com/new?template=https://github.com/iboughtthe/wait/">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+
+
 
 ```
 https://t.me/xxxx/1001-1010
