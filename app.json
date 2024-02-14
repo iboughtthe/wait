@@ -27,6 +27,7 @@
         "SESSION": {
             "description": "Pyrogram string session.",
             "value": ""
+
         },
     "stack": "container"
 }    
